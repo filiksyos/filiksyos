@@ -4,6 +4,8 @@ I am Filiksyos, a 20 year old kid building android apps.
 
 🚀 Skills
 
+![My skills](screenshots/mindmap.png)
+
 [![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://www.android.com) 
 [![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org) 
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/) 
