@@ -1,4 +1,4 @@
-<img src="mindmap.png" width="200" height="auto" alt="App Demo"/>
+<img src="mindmap.png" width="400" height="auto" alt="App Demo"/>
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filiksyos-destaw-9241a2272/) 
