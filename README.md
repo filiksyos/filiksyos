@@ -6,15 +6,14 @@
 
 I build tools that make it easier to find, understand, and learn from open-source code.
 
-[![X](https://img.shields.io/badge/@filiksyos-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/filiksyos)
-[![GitReverse](https://github.com/user-attachments/assets/de850000-1585-4fd5-867a-74856fe07482)](https://gitreverse.com)
-[![GitMVP](https://github.com/user-attachments/assets/d5687729-e8db-4fae-8575-61058e532291)](https://gitmvp.com)
+[![@filiksyos](https://img.shields.io/badge/@filiksyos-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/filiksyos) [![gitreverse](https://img.shields.io/badge/gitreverse-dc2626?style=flat)](https://gitreverse.com) [![gitmvp](https://img.shields.io/badge/gitmvp-7c3aed?style=flat)](https://gitmvp.com)
+
 
 </div>
 
 Currently working on **gitreverse**:
 
-- Reverse engineer any GitHub repo into a prompt that likely created it
+- reverse engineer any github repo into a prompt that likely created it
 
 - open source: ![Stars](https://img.shields.io/github/stars/filiksyos/gitreverse?style=social)
 
@@ -26,8 +25,8 @@ Currently working on **gitreverse**:
 - [`mcptoskill`](https://github.com/filiksyos/mcptoskill) ![Stars](https://img.shields.io/github/stars/filiksyos/mcptoskill?style=social)
 
 **My Stack**
-- `Cursor`: AI Code editor
-- `Claude`: everyday tasks
+- `Cursor`: AI code editor
+- `Claude`: daily tasks
 - `Supabase`: database service
 - `Vercel`: deployment and hosting
 - `Stripe`: Payment processing
