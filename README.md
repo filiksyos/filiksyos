@@ -25,4 +25,4 @@ Currently working on **gitreverse**:
 - `Supabase`: database service
 - `Vercel`: deployment and hosting
 - `Stripe`: Payment processing
-- `OpenRouter`: AI model providercode.
+- `OpenRouter`: AI model provider
