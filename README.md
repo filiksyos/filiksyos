@@ -1,4 +1,4 @@
-## Hi, I'm Fili 👋
+## Hi, I'm Fili
 
 **solo founder · vibe coder · software engineering student**
 
