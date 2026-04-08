@@ -1,11 +1,3 @@
-<div align="center">
-
-# Hi, I'm Fili 👋
-
-**solo founder · vibe coder · software engineering student**
-
-I build tools that make it easier to find, understand, and learn from open-source <div align="center">
-
 # Hi, I'm Fili 👋
 
 **solo founder · vibe coder · software engineering student**
@@ -14,10 +6,7 @@ I build tools that make it easier to find, understand, and learn from open-sourc
 
 [![@filiksyos](https://img.shields.io/badge/@filiksyos-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/filiksyos) [![gitreverse](https://img.shields.io/badge/gitreverse-dc2626?style=flat)](https://gitreverse.com) [![gitmvp](https://img.shields.io/badge/gitmvp-7c3aed?style=flat)](https://gitmvp.com)
 
-
 </div>
-
----
 
 Currently working on **gitreverse**:
 
